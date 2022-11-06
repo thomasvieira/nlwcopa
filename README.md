@@ -1,6 +1,6 @@
 # eBolao - [NLW10 31 de outubro a 07 de novembro de 2022](https://nextlevelweek.com/) 
 
-![Pagina Inicial da Aplicação](assets/paginaInicial.jpeg?raw=true "Title")
+<img src="assets/paginaInicial.jpeg" alt="Pagina Inicial da Aplicação" width="200"/>
 
 ## Briefing
 Aplicação **eBolao** desenvolvida durante o evento Next Level Week 10 da Rocketseat. 
